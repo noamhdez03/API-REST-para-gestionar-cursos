@@ -107,6 +107,7 @@ Puedes probar los endpoints utilizando:
 * Postman
 * Thunder Client
 * Insomnia
+* Bash (Usando el curl)
 
 Ejemplo de body para crear un curso:
 
